@@ -9,6 +9,3 @@ def fact(n):
 n = int(input())
 for el in fact(n):
     print(el)
-
-
-
